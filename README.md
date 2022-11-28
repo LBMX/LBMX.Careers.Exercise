@@ -67,4 +67,4 @@ Commit your changes with the message: 'exercise 3'
 1. Run the following command in the LBMX.Careers.API: `git format-patch -1`
 1. Run the following command in the LBMX.Careers.Web: `git format-patch -2`
 
-This should result in 3 `.patch` files being created. Email these files to the person that booked your interview.
+This should result in 3 `.patch` files being created. Email these files to the person that sent you this link.
